@@ -1,0 +1,102 @@
+export const moviesData = [
+    {
+    image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmMH-bEDUS2TmK8amBqgIMgrfzN1_mImChPuMrunA1XjNTSKm',
+    rating:3,
+    name:"The shawshank",
+    date:"1994",
+    desc:"m",
+    },
+    {
+    image:'https://contentserver.com.au/assets/639531_rampage_13499890.jpg',
+    rating:5,
+    name:"Rampage",
+    date:"2018",
+    desc:"m",
+    },
+    
+    {
+        image:'https://m.media-amazon.com/images/M/MV5BOTE3OTNmMDMtY2UzZi00NjkxLTg3ZTgtMDYwODIyOTk3M2YwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
+        rating:5,
+        name:"The Cell",
+        date:"2017",
+        desc:"m",
+    },
+    {
+        image:'https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR88,0,630,1200_AL_.jpg',
+        rating:5,
+        name:"Titanic",
+        date:"1997",
+        desc:"m",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGeyWdK_fO4ms5YupjCejDmQ-JoET5tiuwukOmQeRoN_UVcKd',
+        rating:5,
+        name:"Prison Break",
+        date:"2005",
+        desc:"s",
+    },
+    {
+        image:'https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg',
+        rating:5,
+        name:"Vikings",
+        date:"2013",
+        desc:"s",
+    },
+    {
+        image:'https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg',
+        rating:1,
+        name:"Game of Thrones",
+        date:"2011",
+        desc:"s",
+    },
+    {
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmMH-bEDUS2TmK8amBqgIMgrfzN1_mImChPuMrunA1XjNTSKm',
+        rating:3,
+        name:"The shawshank",
+        date:"1994",
+        desc:"s",
+        },
+        {
+        image:'https://contentserver.com.au/assets/639531_rampage_13499890.jpg',
+        rating:5,
+        name:"Rampage",
+        date:"2018",
+        desc:"m",
+        },
+        
+        {
+            image:'https://m.media-amazon.com/images/M/MV5BOTE3OTNmMDMtY2UzZi00NjkxLTg3ZTgtMDYwODIyOTk3M2YwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg',
+            rating:5,
+            name:"The Cell",
+            date:"2017",
+            desc:"s",
+        },
+        {
+            image:'https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR88,0,630,1200_AL_.jpg',
+            rating:5,
+            name:"Titanic",
+            date:"1997",
+            desc:"m",
+        },
+        {
+            image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGeyWdK_fO4ms5YupjCejDmQ-JoET5tiuwukOmQeRoN_UVcKd',
+            rating:5,
+            name:"Prison Break",
+            date:"2005",
+            desc:"s",
+        },
+        {
+            image:'https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg',
+            rating:5,
+            name:"Vikings",
+            date:"2013",
+            desc:"s",
+        },
+        {
+            image:'https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg',
+            rating:1,
+            name:"Game of Thrones",
+            date:"2011",
+            desc:"s",
+        }
+]
